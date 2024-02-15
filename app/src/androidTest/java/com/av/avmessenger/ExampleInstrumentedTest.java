@@ -1,4 +1,4 @@
-package com.av.avmessenger;
+package com.Ref.Neda;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.av.avmessenger", appContext.getPackageName());
+        assertEquals("com.ref.neda", appContext.getPackageName());
     }
 }
